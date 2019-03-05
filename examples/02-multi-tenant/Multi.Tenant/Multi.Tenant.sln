@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multi.Tenant", "Multi.Tenant\Multi.Tenant.csproj", "{D08F4D38-5EE1-45E0-BC3D-F5693234E94F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D08F4D38-5EE1-45E0-BC3D-F5693234E94F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D08F4D38-5EE1-45E0-BC3D-F5693234E94F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D08F4D38-5EE1-45E0-BC3D-F5693234E94F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D08F4D38-5EE1-45E0-BC3D-F5693234E94F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B595830D-F397-4F5A-B658-2C8B98DE51E0}
+	EndGlobalSection
+EndGlobal
